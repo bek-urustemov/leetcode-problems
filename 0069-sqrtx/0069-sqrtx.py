@@ -18,5 +18,3 @@ class Solution:
         for i in range(up_to + 2):
             if i*i > x:
                 return i-1
-            else:
-                i += 1
