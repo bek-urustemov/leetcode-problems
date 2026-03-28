@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/bek-urustemov/leetcode-problems/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bek-urustemov/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bek-urustemov/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
