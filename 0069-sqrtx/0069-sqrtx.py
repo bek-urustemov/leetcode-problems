@@ -10,11 +10,22 @@ class Solution:
         # Once we hit the point where i*i>x: -> we can return the previous numbers
 
         # IMPLEMENT:
-
-        # range, and this is the max i could be
         if x < 2:
             return x
-        up_to = x//2
-        for i in range(up_to + 2):
-            if i*i > x:
-                return i-1
+
+        left = 1
+        right = x//2
+        while left <= right:
+            mid = (left+right)//2
+            sq = mid * mid
+
+            if sq == x:
+                return mid
+            elif sq < x:
+                left = mid + 1
+            else:
+                right = mid - 1
+
+        return right
+                
+            
