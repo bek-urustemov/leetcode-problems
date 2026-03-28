@@ -1,5 +1,5 @@
 # leetcode-problems
-A collection my Leetcode problem solutions👨🏻‍💻
+A collection of my solutions for Leetcode problems👨🏻‍💻
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
