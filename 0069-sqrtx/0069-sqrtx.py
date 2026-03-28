@@ -12,8 +12,8 @@ class Solution:
         # IMPLEMENT:
 
         # range, and this is the max i could be
-        if x==1:
-            return 1
+        if x < 2:
+            return x
         up_to = x//2
         for i in range(up_to + 2):
             if i*i > x:
